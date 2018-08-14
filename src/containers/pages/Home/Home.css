@@ -1,0 +1,70 @@
+.banner-home {
+    background-image: url('http://drfoodle.com/wp-content/uploads/2017/10/Fast-food.jpg');
+    background-color: rgb(98, 223, 223);
+    background-position: center;
+    overflow: hidden;
+    height: 350px;
+}
+
+.banner-home .banner-cover {
+    overflow-x: hidden;
+    z-index: 5;
+    align-content: center;
+    text-align: center;
+}
+
+.welcome-tag {
+    text-align: center;
+    font-size: 38px;
+    padding: 120px 0px 25px 0px;
+    color: #fff;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
+
+.home-search {
+    margin: 10px auto;
+    display: inline-block;
+    width: 100%;
+}
+
+.home-search input {
+    width: 60%;
+    font-size: 18px;
+    padding: 7px 30px;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.home-search button {
+    padding: 7px 30px;
+    color: #fff;
+    background-color: #F36369;
+    border: 1px solid #fff;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
+
+.home-search button:hover {
+    background: #fff; 
+    color: #F36369;
+    border: 1px solid #fff;
+}
+
+.featured-area {
+}
+
+.sectioning {
+    padding: 50px 150px;
+}
+
+.featured-area h4 {
+    color: #253D5B;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Nunito', sans-serif;
+}
